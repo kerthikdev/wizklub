@@ -175,6 +175,23 @@
   }
 
 
+  .contact .contact-details {
+    font-size: 1.1rem;
+    margin-top: 20px;
+  }
+  
+  .contact .contact-details a {
+    color: var(--orange);
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .contact .btn {
+    margin-top: 15px;
+    display: inline-block;
+  }
+
+
 
 
   
